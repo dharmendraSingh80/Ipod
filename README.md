@@ -1,3 +1,9 @@
+# Ipod
+This is an Ipod created using React.js
+
+## Screenshot
+![Screenshot (26)](https://user-images.githubusercontent.com/114590452/219935744-c70beafe-6f6f-4150-a2af-19f7bd56bf17.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
